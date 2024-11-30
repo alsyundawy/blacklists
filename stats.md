@@ -1,48 +1,48 @@
 # Blacklist Statistics
 
-**Last Updated:** 1732840100.0
+**Last Updated:** 1732926452.0
 
 ## Overview
-- **Total Domains:** 2929539
-- **Domains with Numbers:** 976358
-- **Domains with Hyphens:** 656748
-- **Vowel/Consonant Ratio:** 17665834/35655792
+- **Total Domains:** 2931739
+- **Domains with Numbers:** 976562
+- **Domains with Hyphens:** 657043
+- **Vowel/Consonant Ratio:** 17678358/35681091
 
 ## Top 10 TLDs
 | TLD | Count |
 | --- | ----- |
-| .com | 1419337 |
-| .org | 242101 |
-| .net | 192810 |
-| .top | 71574 |
-| .xyz | 69917 |
-| .ru | 68686 |
-| .io | 54500 |
-| .info | 50492 |
-| .pl | 48760 |
-| .fr | 40934 |
+| .com | 1420005 |
+| .org | 242156 |
+| .net | 192856 |
+| .top | 71930 |
+| .xyz | 69921 |
+| .ru | 68692 |
+| .io | 54603 |
+| .info | 50532 |
+| .pl | 48780 |
+| .fr | 40962 |
 
 ## Top 10 Second-Level Domains (SLDs)
 | SLD | Count |
 | --- | ----- |
-| duckdns | 162180 |
+| duckdns | 162184 |
 | 000webhostapp | 28220 |
 | gaipuzui | 26931 |
 | courtoyz | 26892 |
 | doubleclick | 25998 |
 | no-ip | 24613 |
-| emltrk | 20949 |
-| forter | 20313 |
-| com | 20304 |
+| emltrk | 20857 |
+| com | 20309 |
+| forter | 20196 |
 | co | 19800 |
 
 ## Top 10 Subdomains
 | Subdomain | Count |
 | --------- | ----- |
-| www.allegrolokalnie | 953 |
-| www.olx-pl | 869 |
+| www.allegrolokalnie | 955 |
+| www.olx-pl | 904 |
 | www.vinted-pl-gj32d | 776 |
-| www.olx | 743 |
+| www.olx | 744 |
 | www.inpost | 304 |
 | www.booking | 185 |
 | olx.pl | 180 |
@@ -53,16 +53,16 @@
 ## Top 10 Domain Lengths
 | Length | Count |
 | ------ | ----- |
-| 19 | 188170 |
-| 16 | 181499 |
-| 17 | 168079 |
-| 18 | 167939 |
-| 20 | 161575 |
-| 22 | 159380 |
-| 15 | 153934 |
-| 21 | 148204 |
-| 14 | 141221 |
-| 23 | 129351 |
+| 19 | 188237 |
+| 16 | 181648 |
+| 17 | 168246 |
+| 18 | 168110 |
+| 20 | 161675 |
+| 22 | 159498 |
+| 15 | 154040 |
+| 21 | 148309 |
+| 14 | 141353 |
+| 23 | 129433 |
 
 ## Longest 10 Domains
 | Domain |
@@ -72,36 +72,36 @@
 | a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.myniceposts.com |
 | a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.myniceposts.com |
 | a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.myniceposts.com |
-| 20tadoghq.comprocesssformseaming.appus3.20tadoghq.us3-rum.api.us3.20tadoghq.appus3events.us3.20tadoghq.usage-comprocessbeta-intakes.us3.20tadoghq.comproductptn-1.q.20tadoghq.comproductptn-stitchfix.20tadoghq.consul.api.us3.process.datadoghq.com |
+| sayncdiscover.ad.shoppingcart.us-east-1.shipt-test38.comweb3789-neocovidev.sayncdiscover.ad.shoppingcart.us-east-1.shipt.comwww.apollon.neocovidev.sayncdiscover.ad.shoppingcart.us-east-1.shipt.comthanossidecar-0.ml.us-central1.staging.shipt.com |
+| 20tadoghq.comintplatformtreaming.appapi.20tadoghq.comprocesslatin.api.api.20tadoghq.nautilusll-sandbox.api.20tadoghq.usage-aptsrofiles.api.20tadoghq.comproduction-iress.20tadoghq.comproduction-stitchfix.slack-gateway.p-api.api.api.datadoghq.com |
+| 20tadoghq.comprocesspoping.appap1.20tadoghq.comprocesslatin.agent.ap1.20tadoghq.merchantagent.ap1.20tadoghq.usage-comprocessbeta-urls.ap1.20tadoghq.helm-20tadoghq-iress.20tadoghq.helm-20tadoghq-stitchfix.20tadoghq.consul.agent.ap1.datadoghq.com |
+| cps.20tadoghq.comintplatformtreaming.ap1us3p.20tadoghq.comprocesslatin.api.api.20tadoghq.nautilusll-sandbox.api.20tadoghq.usage-aptsrofiles.api.20tadoghq.comprocesslatguest.mgo.20tadoghq.8-3-8-app-stitchfix.20tadoghq.p-api.api.api.datadoghq.com |
 | 20tadoghq.comprocesspoping.appap1.20tadoghq.comprocesscal.agent.ap1.20tadoghq.0-wheels-9-app.ap1.20tadoghq.usage-comprocessbeta-urls.ap1.20tadoghq.helm-20tadoghq-iress.20tadoghq.helm-20tadoghq-2-18-9-app.20tadoghq.consul.agent.ap1.datadoghq.com |
-| cps.20tadoghq.comimemberplatformtreaming.addons.20tadoghq.comprocesslatin.api.api.20tadoghq.sirius-sandbox.api.20tadoghq.usage-aptsrofiles.api.20tadoghq.comproduction-iress.20tadoghq.comproduction-stitchfix.20tadoghq.p-api.api.api.datadoghq.com |
-| 20tadoghq.comafreebsdtreaming.appus3.20tadoghq.us3-rum.api.us3.20tadoghq.comproclient.us3.20tadoghq.usage-comprocessbeta-intakes.us3.20tadoghq.comagendaction-vonus.q.20tadoghq.event-platform-intake.20tadoghq.consul.api.us3.process.datadoghq.com |
-| 20tadoghq.comprocesspoping.appus5.20tadoghq.comprocesslatin.agent.us5.20tadoghq.0-13-9-app.us5.20tadoghq.usage-comprocessbeta-intakes.us5.20tadoghq.helm-20tadoghq-iress.20tadoghq.helm-20tadoghq-stitchfix.20tadoghq.consul.agent.us5.datadoghq.com |
 
 ## Shortest 10 Domains
 | Domain |
 | ------ |
-| 1.vg |
-| 0.to |
-| p.de |
-| t.cl |
-| o.uk |
-| r.de |
-| j.pl |
+| z.cn |
+| k.mr |
 | x.co |
+| t.cl |
+| j.pl |
 | 5.cc |
-| 4.fo |
+| l.vg |
+| p.de |
+| a.ki |
+| s.sh |
 
 ## Top 10 Characters in Domain Names
 | Character | Count |
 | --------- | ----- |
-| o | 4843348 |
-| e | 4317116 |
-| a | 3757544 |
-| c | 3739003 |
-| i | 3110579 |
-| t | 3080758 |
-| s | 3059167 |
-| n | 2901014 |
-| r | 2858945 |
-| m | 2838269 |
+| o | 4847078 |
+| e | 4320337 |
+| a | 3759623 |
+| c | 3741093 |
+| i | 3112926 |
+| t | 3083066 |
+| s | 3061713 |
+| n | 2902918 |
+| r | 2860706 |
+| m | 2839893 |
