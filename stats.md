@@ -1,40 +1,40 @@
 # Blacklist Statistics
 
-**Last Updated:** 1733013269.0
+**Last Updated:** 1733033363.0
 
 ## Overview
-- **Total Domains:** 3178149
-- **Domains with Numbers:** 1097672
-- **Domains with Hyphens:** 718655
-- **Vowel/Consonant Ratio:** 19389390/38758195
+- **Total Domains:** 2935144
+- **Domains with Numbers:** 978471
+- **Domains with Hyphens:** 657157
+- **Vowel/Consonant Ratio:** 17709115/35739914
 
 ## Top 10 TLDs
 | TLD | Count |
 | --- | ----- |
-| .com | 1549701 |
-| .org | 252393 |
-| .net | 210090 |
-| .ru | 75482 |
-| .top | 74668 |
-| .xyz | 71321 |
-| .io | 58338 |
-| .info | 53099 |
-| .pl | 49180 |
-| .fr | 41294 |
+| .com | 1421921 |
+| .org | 242257 |
+| .net | 193411 |
+| .top | 72387 |
+| .xyz | 70159 |
+| .ru | 68693 |
+| .io | 55104 |
+| .info | 50650 |
+| .pl | 48781 |
+| .fr | 41025 |
 
 ## Top 10 Second-Level Domains (SLDs)
 | SLD | Count |
 | --- | ----- |
-| duckdns | 162193 |
-| bitcoin | 32909 |
-| 000webhostapp | 28231 |
-| co | 27820 |
+| duckdns | 162191 |
+| 000webhostapp | 28220 |
 | gaipuzui | 26931 |
 | courtoyz | 26892 |
 | doubleclick | 26037 |
-| no-ip | 24665 |
-| binance | 23312 |
-| com | 21243 |
+| no-ip | 24613 |
+| emltrk | 20857 |
+| com | 20318 |
+| forter | 20196 |
+| co | 19813 |
 
 ## Top 10 Subdomains
 | Subdomain | Count |
@@ -53,16 +53,16 @@
 ## Top 10 Domain Lengths
 | Length | Count |
 | ------ | ----- |
-| 19 | 205096 |
-| 16 | 194128 |
-| 18 | 185533 |
-| 17 | 182609 |
-| 20 | 176639 |
-| 22 | 172773 |
-| 15 | 164130 |
-| 21 | 162432 |
-| 14 | 149520 |
-| 23 | 139422 |
+| 19 | 188212 |
+| 16 | 181912 |
+| 17 | 168374 |
+| 18 | 168288 |
+| 20 | 161693 |
+| 22 | 159646 |
+| 15 | 154112 |
+| 21 | 148363 |
+| 14 | 141534 |
+| 23 | 129530 |
 
 ## Longest 10 Domains
 | Domain |
@@ -72,36 +72,36 @@
 | a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.myniceposts.com |
 | a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.myniceposts.com |
 | a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.myniceposts.com |
-| us5.datadoghq.oohmediaomprooohmedialient.us5.datadoghq.usage-oohmediaomprooohmediaesstos.us5.datadoghq.dr-test-failover.datadoghq.drive-oohmediaomprooohmediaesstos.datadoghq.oohmediaomprooohmediaesechoeechoworks.api.synthetics.us5.datadoghq.com |
-| 20tadoghq.comprocesspoping.appus3.20tadoghq.comprocesslatin.api.us3.20tadoghq.whm-domains.us3.20tadoghq.usage-comprocessbeta-p44s.us3.20tadoghq.comproduction-iress.20tadoghq.comproduction-stitchfix.20tadoghq.consul.api.us3.process.datadoghq.com |
-| 20tadoghq.comprocesspoping.appus5.20tadoghq.comprocesslatin.agent.us5.20tadoghq.0-13-9-app.us5.20tadoghq.usage-comprocessbeta-intakes.us5.20tadoghq.helm-20tadoghq-iress.20tadoghq.helm-20tadoghq-stitchfix.20tadoghq.consul.agent.us5.datadoghq.com |
-| 20tadoghq.comprocesspoping.appap1.20tadoghq.comprocesscal.agent.ap1.20tadoghq.0-wheels-9-app.ap1.20tadoghq.usage-comprocessbeta-urls.ap1.20tadoghq.helm-20tadoghq-iress.20tadoghq.helm-20tadoghq-2-18-9-app.20tadoghq.consul.agent.ap1.datadoghq.com |
-| 20tadoghq.comprocesspoping.appap1.20tadoghq.comprocesslatin.294cgi.ap1.20tadoghq.0-13-9-app.ap1.20tadoghq.usage-comprocesseseta-urls.ap1.20tadoghq.helm-20tadoghq-iress.20tadoghq.helm-20tadoghq-stitchfix.20tadoghq.consul.294cgi.ap1.datadoghq.com |
+| 20tadoghq.comprocesspoping.appap1.20tadoghq.comprocesslatin.2v14cb.ap1.20tadoghq.0-13-v1-app.ap1.20tadoghq.usage-comprocessbeta-urls.ap1.20tadoghq.helm-20tadoghq-iress.20tadoghq.helm-20tadoghq-stitchfix.20tadoghq.consul.2v14cb.ap1.datadoghq.com |
+| 20tadoghq.comprocesspoping.appus5.20tadoghq.comprocesslatin.ageweb.us5.20tadoghq.0-b2bs-9-app.us5.20tadoghq.usage-comprocess3-3-6-apps.us5.20tadoghq.helm-20tadoghq-iress.20tadoghq.helm-20tadoghq-stitchfix.20tadoghq.4www.ageweb.us5.datadoghq.com |
+| 20tadoghq.comprocesssformseaming.appus3.20tadoghq.us3-rum.api.us3.20tadoghq.appus3events.us3.20tadoghq.usage-comprocessbeta-intakes.us3.20tadoghq.comproduction-1.q.20tadoghq.comproduction-stitchfix.20tadoghq.consul.api.us3.process.datadoghq.com |
+| 20tadoghq.comintplatformtreaming.appapi.20tadoghq.comprocesslatin.api.api.20tadoghq.nautilusll-sandbox.api.20tadoghq.usage-logsitchfix.api.20tadoghq.comproduction-iress.20tadoghq.comproduction-stitchfix.20tadoghq.p-api.lnd-api.api.datadoghq.com |
+| 20tadoghq.comafreebsdtreaming.appus3.20tadoghq.us3-rum.api.us3.20tadoghq.comprogallery.us3.20tadoghq.usage-comprocessbeta-intakes.us3.20tadoghq.comproduction-vonus.q.20tadoghq.event-platform-intake.20tadoghq.consul.api.us3.process.datadoghq.com |
 
 ## Shortest 10 Domains
 | Domain |
 | ------ |
-| c.to |
-| u.gp |
-| s.nl |
-| s.co |
-| x.tc |
-| s.vc |
-| h.vu |
-| o.uk |
-| m.gp |
-| a.am |
+| 5.cc |
+| p.de |
+| l.vg |
+| z.cn |
+| t.cl |
+| 1.vg |
+| a.ki |
+| 0.to |
+| k.mr |
+| j.pl |
 
 ## Top 10 Characters in Domain Names
 | Character | Count |
 | --------- | ----- |
-| o | 5371205 |
-| e | 4705033 |
-| c | 4153294 |
-| a | 4073400 |
-| i | 3464216 |
-| t | 3391720 |
-| s | 3305381 |
-| n | 3245153 |
-| m | 3105531 |
-| r | 3058877 |
+| o | 4856460 |
+| e | 4329838 |
+| a | 3764835 |
+| c | 3747789 |
+| i | 3119160 |
+| t | 3080150 |
+| s | 3065365 |
+| n | 2905865 |
+| r | 2864610 |
+| m | 2844861 |
