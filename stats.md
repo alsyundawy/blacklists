@@ -2,8 +2,8 @@
 
 - **Total Domains:** 2,684,447
 - **Unique Domains:** 2,684,447
-- **Added Domains Since Last Version:** 727,462
-- **Removed Domains Since Last Version:** 1,064,931
+- **Added Domains Since Last Version:** 727,463
+- **Removed Domains Since Last Version:** 1,064,932
 
 ### Top-Level Domain Distribution
 
@@ -16,4 +16,4 @@
 -  `.io`: 61,638
 -  `.pl`: 48,779
 -  `.info`: 44,616
--  `.fr`: 36,048
+-  `.fr`: 36,047
