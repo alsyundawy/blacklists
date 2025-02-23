@@ -17,7 +17,7 @@ https://github.com/fabriziosalmi/blacklists/releases/download/latest/blacklist.t
 
 
 
-![Static Badge](https://img.shields.io/badge/blacklists-60-000000) ![Static Badge](https://img.shields.io/badge/blacklisted-2838117-cc0000) ![Static Badge](https://img.shields.io/badge/whitelisted-2245-00CC00) ![Static Badge](https://img.shields.io/badge/streaming_blacklist-28107-000000) ![GitHub issues](https://img.shields.io/github/issues/fabriziosalmi/blacklists)
+![Static Badge](https://img.shields.io/badge/blacklists-60-000000) ![Static Badge](https://img.shields.io/badge/blacklisted-2838141-cc0000) ![Static Badge](https://img.shields.io/badge/whitelisted-2245-00CC00) ![Static Badge](https://img.shields.io/badge/streaming_blacklist-28107-000000) ![GitHub issues](https://img.shields.io/github/issues/fabriziosalmi/blacklists)
 ### Compatibility
 - **Windows**, **Mac**, **Linux** via the [uBlock Origin](https://github.com/gorhill/uBlock#ublock-origin) browser extension ([Firefox](https://addons.mozilla.org/it/firefox/addon/ublock-origin/) or [others browsers](https://ublockorigin.com))
 - **iPhone** (Safari + DNS) via [AdGuard Pro for IOS](https://download.adguard.com/d/18672/ios-pro?exid=3ail29lmsdyc84s84c0gkosgo)
@@ -52,27 +52,11 @@ Code improvements by [xRuffKez](https://github.com/xRuffKez).
 ## 👨‍💻 Testing
 
 - Machine learning to [predict bad domains and rank all domains](https://github.com/fabriziosalmi/blacklists/tree/main/machine-learning)
+## 🗓️ Roadmap
 
-## Others projects
+2025
 
-If You like my projects, you may also like these ones:
-
-- [caddy-waf](https://github.com/fabriziosalmi/caddy-waf) Caddy WAF (Regex Rules, IP and DNS filtering, Rate Limiting, GeoIP, Tor, Anomaly Detection) 
-- [patterns](https://github.com/fabriziosalmi/patterns) Automated OWASP CRS and Bad Bot Detection for Nginx, Apache, Traefik and HaProxy
-- [proxmox-vm-autoscale](https://github.com/fabriziosalmi/proxmox-vm-autoscale) Automatically scale virtual machines resources on Proxmox hosts 
-- [UglyFeed](https://github.com/fabriziosalmi/UglyFeed) Retrieve, aggregate, filter, evaluate, rewrite and serve RSS feeds using Large Language Models for fun, research and learning purposes 
-- [proxmox-lxc-autoscale](https://github.com/fabriziosalmi/proxmox-lxc-autoscale) Automatically scale LXC containers resources on Proxmox hosts 
-- [DevGPT](https://github.com/fabriziosalmi/DevGPT) Code togheter, right now! GPT powered code assistant to build project in minutes
-- [websites-monitor](https://github.com/fabriziosalmi/websites-monitor) Websites monitoring via GitHub Actions (expiration, security, performances, privacy, SEO)
-- [caddy-mib](https://github.com/fabriziosalmi/caddy-mib) Track and ban client IPs generating repetitive errors on Caddy 
-- [zonecontrol](https://github.com/fabriziosalmi/zonecontrol) Cloudflare Zones Settings Automation using GitHub Actions 
-- [lws](https://github.com/fabriziosalmi/lws) linux (containers) web services
-- [cf-box](https://github.com/fabriziosalmi/cf-box) cf-box is a set of Python tools to play with API and multiple Cloudflare accounts.
-- [limits](https://github.com/fabriziosalmi/limits) Automated rate limits implementation for web servers 
-- [dnscontrol-actions](https://github.com/fabriziosalmi/dnscontrol-actions) Automate DNS updates and rollbacks across multiple providers using DNSControl and GitHub Actions 
-- [proxmox-lxc-autoscale-ml](https://github.com/fabriziosalmi/proxmox-lxc-autoscale-ml) Automatically scale the LXC containers resources on Proxmox hosts with AI
-- [csv-anonymizer](https://github.com/fabriziosalmi/csv-anonymizer) CSV fuzzer/anonymizer
-- [iamnotacoder](https://github.com/fabriziosalmi/iamnotacoder) AI code generation and improvement
-
+- Improve blacklist
+- Improve whitelist
 ---
 ![Static Badge](https://img.shields.io/badge/DomainsBlacklists-For_a_safer_digital_experience-00ce00?style=for-the-badge)
