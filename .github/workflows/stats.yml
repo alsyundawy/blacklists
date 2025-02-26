@@ -26,11 +26,7 @@ jobs:
 
       - name: Run blacklist stats script
         id: run_stats
-        run: |
-          python3 stats.py
-          echo "stats_output<<EOF" >> $GITHUB_OUTPUT
-          cat stats.md >> $GITHUB_OUTPUT
-          echo "EOF" >> $GITHUB_OUTPUT
+        run: python3 stats.py
 
       - name: Commit and push stats.md
         uses: EndBug/add-and-commit@v9
