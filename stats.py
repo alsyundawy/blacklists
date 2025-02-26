@@ -136,6 +136,12 @@ def main():
         f.write(markdown_output)
     print(f"Stats saved to {OUTPUT_FILE}")
 
+    # Output stats content to GITHUB_OUTPUT
+    with open(OUTPUT_FILE, "r", encoding="utf-8") as f:
+        stats_content = f.read()
+    print(f"stats_output={stats_content}")
+    print(f"stats_output={stats_content} >> $GITHUB_OUTPUT")
+
 
 if __name__ == "__main__":
     main()
