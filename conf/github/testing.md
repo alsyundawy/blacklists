@@ -1,3 +1,3 @@
-## 👨‍💻 Testing
+## 👨‍💻 Machine Learning
 
-- Machine learning to [predict bad domains and rank all domains](https://github.com/fabriziosalmi/blacklists/tree/main/machine-learning)
+- Machine learning model to [predict bad domains](https://github.com/fabriziosalmi/fqdn-model)
