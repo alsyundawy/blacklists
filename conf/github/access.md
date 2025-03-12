@@ -13,4 +13,4 @@
 - **Robust Security**: Protect against phishing, spam, scams, ads, trackers, bad websites and more
 - **Whitelist Capability**: [Submit one or more domains for whitelisting](https://github.com/fabriziosalmi/blacklists/issues/new/choose)
 - **Local Mirror**: Set up easily using the [Docker image](https://hub.docker.com/repository/docker/fabriziosalmi/blacklists/)
-- **Machine Learning Model**: Detect bad domain names with a [simple FQDN Classifier](https://github.com/fabriziosalmi/fqdn-model) trained on this blacklist
+- **Machine Learning**: Detect bad domain names with a [simple FQDN Classifier](https://github.com/fabriziosalmi/fqdn-model) trained on this blacklist
